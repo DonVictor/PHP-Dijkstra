@@ -1,0 +1,3 @@
+Dijkstra's shortest path-algorithm in PHP including an implementation of a priority queue to support it.
+
+Author: doug@neverfear.org
