@@ -94,4 +94,3 @@ class PriorityQueue {
 		return $x;
 	}
 }
-?>
